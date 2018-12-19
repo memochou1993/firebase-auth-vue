@@ -1,5 +1,5 @@
 {
-  "name": "authentication-vue",
+  "name": "firebase-auth-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
